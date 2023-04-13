@@ -1,0 +1,22 @@
+[
+null,
+{"id":1,"atypeId":1,"description":"Sistema Operacional Básico","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":186,"name":"Capivara OS Lite","note":"","params":[0,0,0,0,10,10,0,0],"price":250},
+{"id":2,"atypeId":1,"description":"Sistema Operacional Intermediário","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":186,"name":"Capivara OS","note":"","params":[0,0,0,0,20,20,0,0],"price":500},
+{"id":3,"atypeId":1,"description":"O melhor Sistema Operacional","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":186,"name":"Ultimate Capivara OS","note":"","params":[0,0,0,0,40,40,0,0],"price":1000},
+{"id":4,"atypeId":1,"description":"Processador Básico","etypeId":3,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":245,"name":"Quati Single-Core","note":"","params":[2,2,2,2,2,2,2,2],"price":250},
+{"id":5,"atypeId":1,"description":"Processador Intermediário","etypeId":3,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":245,"name":"Quati Dual-Core","note":"","params":[4,4,4,4,4,4,4,4],"price":500},
+{"id":6,"atypeId":1,"description":"Processador Avançado","etypeId":3,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":245,"name":"Quati Quad-Core","note":"","params":[8,8,8,8,8,8,8,8],"price":1000},
+{"id":7,"atypeId":1,"description":"O melhor Processador disponível","etypeId":3,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":245,"name":"Quati Octa-Core","note":"","params":[16,16,16,16,16,16,16,16],"price":2000},
+{"id":8,"atypeId":1,"description":"Placa gráfica Básica","etypeId":6,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":137,"name":"Guará ZTX 7000","note":"","params":[0,0,5,0,0,0,5,0],"price":250},
+{"id":9,"atypeId":1,"description":"Placa gráfica Intermediária","etypeId":6,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":137,"name":"Guará ZTX 8000","note":"","params":[0,0,10,0,0,0,10,0],"price":500},
+{"id":10,"atypeId":1,"description":"Placa gráfica Avançada","etypeId":6,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":137,"name":"Guará ZTX 9000","note":"","params":[0,0,20,0,0,0,20,0],"price":1000},
+{"id":11,"atypeId":1,"description":"A melhor Placa gráfica disponível","etypeId":6,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":137,"name":"Guará ZTX 9999","note":"","params":[0,0,40,0,0,0,40,0],"price":2000},
+{"id":12,"atypeId":1,"description":"Memória Básica","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":189,"name":"Memória 2GB","note":"","params":[0,0,0,5,0,0,0,5],"price":250},
+{"id":13,"atypeId":1,"description":"Memória Intermediário","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":189,"name":"Memória 4GB","note":"","params":[0,0,0,10,0,0,0,10],"price":500},
+{"id":14,"atypeId":1,"description":"Memória Avançado","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":189,"name":"Memória 8GB","note":"","params":[0,0,0,20,0,0,0,20],"price":1000},
+{"id":15,"atypeId":1,"description":"A melhor Memória disponível","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":189,"name":"Memória 16GB","note":"","params":[0,0,0,40,0,0,0,40],"price":2000},
+{"id":16,"atypeId":1,"description":"","etypeId":5,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":229,"name":"HDD 100GB","note":"","params":[5,5,0,0,0,0,0,0],"price":250},
+{"id":17,"atypeId":1,"description":"","etypeId":5,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":229,"name":"HDD 250GB","note":"","params":[10,10,0,0,0,0,0,0],"price":500},
+{"id":18,"atypeId":1,"description":"","etypeId":5,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":229,"name":"HDD 500GB","note":"","params":[20,20,0,0,0,0,0,0],"price":1000},
+{"id":19,"atypeId":1,"description":"","etypeId":5,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":232,"name":"SSD 480GB","note":"","params":[40,40,0,0,0,0,0,0],"price":2000}
+]
